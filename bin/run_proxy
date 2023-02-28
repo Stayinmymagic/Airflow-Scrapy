@@ -1,0 +1,2 @@
+cd ./airflow-tutorial/airflow/Web-Scraper-forbes/get_proxy
+scrapy crawl us_proxy -o proxy.json

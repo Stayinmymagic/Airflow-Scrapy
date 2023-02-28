@@ -1,0 +1,2 @@
+cd ./airflow-tutorial/airflow/Web-Scraper-forbes/reuters
+scrapy crawl reuters -o news.json
